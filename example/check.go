@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/AviParampampam/go-cam-scanner/pkg/scanner"
+	scanner "github.com/AviParampampam/go-cam-scanner"
 )
 
 func main() {
