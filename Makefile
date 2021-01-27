@@ -1,3 +1,3 @@
-.PHONY: build
-build:
-	go build example/onvif.go
+.PHONY: run
+run:
+	go run example/check.go
